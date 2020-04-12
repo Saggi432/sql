@@ -30,3 +30,8 @@ using (client_id)
 join payment_methods pm
 -- notice we cannot use using in the below as the column names are different.
 on pm.payment_method_id=p.payment_method
+
+-- Natural Joins
+use sql_store;
+select * from orders
+natural join customers c
