@@ -2,7 +2,7 @@
 Exercise sql queries
 
 
-These are the example queries following the youtube video on SQL for beginners 2019. 
+These are the example queries following the youtube video on SQL for beginners 2019. A 3hr tutorial covering various topics for beginners to SQL.
 
 
 
