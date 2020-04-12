@@ -35,3 +35,24 @@ on pm.payment_method_id=p.payment_method
 use sql_store;
 select * from orders
 natural join customers c
+
+
+-- Cross Joins
+-- every record is joined
+
+use sql_store;
+select * 
+from customers c
+cross join products p
+
+
+-- Cross Joins
+-- every record is joined
+
+use sql_store;
+select * from products;
+select * from shippers;
+
+select * 
+from products p
+cross join shippers s
