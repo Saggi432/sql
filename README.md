@@ -7,3 +7,6 @@ These are the example queries following the youtube video on SQL for beginners 2
 
 
 https://www.youtube.com/watch?v=7S_tz1z_5bA
+
+
+It Also includes the Rules for formatting as well.
